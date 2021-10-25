@@ -1,0 +1,5 @@
+stackbitVersion: ~0.3.0
+ssgName: eleventy
+cmsName: netlifycms
+nodeVersion: '12'
+publishDir: _site
